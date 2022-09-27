@@ -1,4 +1,4 @@
-﻿09.27 19:51
+
 
 #Entorno de desarrollo
 
@@ -7,20 +7,18 @@
 1) . ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 
 Los lenguajes imperativos se especifica la secuencia de operaciones utilizado. Ejemplo: PHP, JavaScript.
-
 Mientras que los lenguajes declarativos  se especifica el resultado deseado, no cómo lograrlo. Ejemplo: SQL, Prolog.
 
-1) . ¿Explica qué es compilar? ¿Explica qué es interpretar?
+2) . ¿Explica qué es compilar? ¿Explica qué es interpretar?
 
 Compilar es el proceso de transformar un programa informático escrito en un lenguaje en un programa equivalente en otro formato.
-
 Y interpretar es ejecutar el programa escrito a otro directamente, sin una previa compilación del programa a instrucciones en lenguaje máquina.
 
-1) . Ventajas de los lenguajes compilados.
+3) . Ventajas de los lenguajes compilados.
 
 Un programa escrito en un lenguaje compilado posee la ventaja de no necesitar un programa anexo para ser ejecutado una vez que ha sido compilado. Además, como sólo es necesaria una traducción, la ejecución se vuelve más rápida.
 
-1) . Ventajas de los lenguajes interpretados.
+4) . Ventajas de los lenguajes interpretados.
 
 - Multiplataforma. Puede estar en varios sistemas por lo que no tiene que adaptarse a una plataforma en concreto.
 - Portabilidad. El programa puede llevarse a diferentes plataformas.

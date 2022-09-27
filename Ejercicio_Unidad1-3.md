@@ -1,6 +1,6 @@
-#Entorno de desarrollo#
+# Entorno de desarrollo
 
-##Lenguajes de programación##
+## Lenguajes de programación
 
 1) . ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 

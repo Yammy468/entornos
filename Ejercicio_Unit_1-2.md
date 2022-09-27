@@ -4,7 +4,7 @@ Entorno Unidad 2
 
 ## KANBAN, SCRUM y XP
 
-1). **KANBAN.** Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace:
+1). KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace:
 
 ·  https://es.atlassian.com/agile/kanban
 
@@ -12,7 +12,7 @@ La metodología Kanban se implementa por medio de tableros Kanban, inventado por
 
 Las metodologías kanban son continuas y más fluidas, mientras que el scrum se basa en sprints de trabajo cortos y estructurados.
 
-2). **SCRUM.** Explica como funciona Scrum. Consulta los siguientes enlaces:
+2). SCRUM. Explica como funciona Scrum. Consulta los siguientes enlaces:
 
 ·  https://proyectosagiles.org/que-es-scrum/
 
@@ -20,13 +20,13 @@ Las metodologías kanban son continuas y más fluidas, mientras que el scrum se 
 
 Scrum está estructurado para ayudar a los equipos a adaptarse de forma natural a las condiciones cambiantes y a los requisitos de los usuarios, con el cambio de prioridades integrado en el proceso y ciclos de lanzamiento breves para que tu equipo pueda aprender y mejorar constantemente.
 
-3). **SCRUM.** Define los siguientes términos:
+3). SCRUM. Define los siguientes términos:
 
 ·  Product backlog: podría definirse como un listado ordenado y priorizado de los requisitos necesarios para la implementación de un proyecto. Debe contener descripciones de las funcionalidades y características que se quieran en el producto, ordenadas en función de su prioridad.
 
 ·  Sprint backlog: es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el Incremento de Producto
 
-4). **SCRUM.** En la terminología Scrum qué terminos se utilizan como sinónimo de:
+4). SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
 
 ·  Jefe de proyecto = Scrum Master
 
@@ -34,7 +34,7 @@ Scrum está estructurado para ayudar a los equipos a adaptarse de forma natural 
 
 ·  Equipo de desarrollo = Development Team
 
-5). **SCRUM.** Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
+5). SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
 
 ·  https://proyectosagiles.org/requisitos-de-scrum/
 
@@ -49,7 +49,7 @@ Scrum está estructurado para ayudar a los equipos a adaptarse de forma natural 
 - Estabilidad de los miembros del equipo
 
 
-6). **XP.** Explica los 5 valores de la Programación Extrema.
+6). XP. Explica los 5 valores de la Programación Extrema.
 
 Los 5 valores de eXtreme Programming:
 
@@ -59,7 +59,7 @@ Los 5 valores de eXtreme Programming:
 1. Coraje: toma prácticas de sentido común y las lleva al límite, lo que muchas veces nos obliga a salir de nuestra zona de confort. Por ello, hay que ser valiente.
 1. Respeto: respeto por el trabajo de los demás y, sobre todo, respeto hacia uno mismo y tu trabajo.
 
-7). **XP.** ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas. Puedes consultar el siguiente enlace:
+7). XP. ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas. Puedes consultar el siguiente enlace:
 
 ·  http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
 

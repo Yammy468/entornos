@@ -8,8 +8,8 @@
 - python
 - php
 - javascript (nodejs)
-- c
-- c++
+- C
+- C++
 - java
 - ruby
 - go
@@ -41,8 +41,8 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
    - python
    - php
    - javascript20).
-   - c
-   - c++
+   - C
+   - C++
    - java
    - ensamblador
    - ruby

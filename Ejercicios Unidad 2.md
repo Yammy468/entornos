@@ -81,7 +81,7 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 char *mensaje="Hola a todos y todas";
 int  num1 = 8;
-int  num2 = 10;
+int  num2 = 10; 
 ```
 
 ```lang-c

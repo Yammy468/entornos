@@ -29,26 +29,52 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 **2).** Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código: ¿compilación o interpretación?
 
+- bash  --->  interpretación 
+- python  --->  interpretación 
+- php  --->  interpretación 
+- javascript (nodejs)  --->  interpretación 
+- C  --->  compilación 
+- C++  --->  compilación 
+- java  --->  compilación 
+- ruby  --->  interpretación 
+- go  --->  compilación 
+- rust  --->  compilación 
+- lisp  --->  interpretación 
+- ensamblador (nasm)  --->  compilador cruzado 
+
 
 
 **3).** Para cada uno de los lenguajes anteriores, indica el nombre del compilador o interprete utilizado en GNU/Linux.
+
+- bash  --->  SCRIPTS
+- python  --->  CPYTHON 
+- php  --->  NETBEANS 
+- javascript (nodejs)  --->  GCC 
+- C  --->  GCC 
+- C++  --->  GCC 
+- java  --->  JAVAC
+- ruby  --->  compilador JIT 
+- go  --->  GO BUILD 
+- rust  --->  RUSTC
+- lisp  --->  CAR/ CDR
+- ensamblador (nasm)  --->  GCC 
 
 
 
 **4).** Investiga y averigua que extensión tienen los archivos de código fuente de los siguientes lenguajes:
 
-   - bash
-   - python
-   - php
-   - javascript20).
-   - C
-   - C++
-   - java
-   - ensamblador
-   - ruby
-   - go
-   - rust
-   - lisp
+   - bash = ``` .sh```
+   - python = ``` .py```
+   - php = ``` .php```
+   - javascript = ``` .js```
+   - C = ``` .c```
+   - C++ = ``` .cpp```
+   - java = ``` .java```
+   - ensamblador (nasm) = ``` .asm```
+   - ruby = ``` .rb```
+   - go = ``` .go```
+   - rust = ``` .rs```
+   - lisp= ``` .lisp```
 
 
 

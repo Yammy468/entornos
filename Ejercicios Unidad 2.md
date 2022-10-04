@@ -26,10 +26,13 @@ El código fuente para distintos lenguajes de programación está disponible en:
 Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 
+
 **2).** Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código: ¿compilación o interpretación?
 
 
+
 **3).** Para cada uno de los lenguajes anteriores, indica el nombre del compilador o interprete utilizado en GNU/Linux.
+
 
 
 **4).** Investiga y averigua que extensión tienen los archivos de código fuente de los siguientes lenguajes:
@@ -48,6 +51,7 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
    - lisp
 
 
+
 **5).** Scripts ejecutables para los lenguajes interpretados. Edita los scripts para los siguientes lenguajes:
 
    - bash
@@ -63,7 +67,9 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 
-6).** ¿Qué extensión tienen los archivos de código objeto?
+
+**6).** ¿Qué extensión tienen los archivos de código objeto?
+
 
 
 **7).** Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes:
@@ -116,6 +122,7 @@ gcc  -c  main.c  datos.c  suma.c
 Deberemos obtener 3 archivos:  `main.o`,  `suma.o`  y `datos.o`
 
 
+
 **8).** Lenguaje C. Código en varios archivos. Obtener el código binario ejecutable a partir del código objeto de los 3 archivos anteriores:
 
 ```lang-c
@@ -134,9 +141,12 @@ Hola a todos y todas
 
 
 
+
+
 ## Bibliotecas
 
 **11).** Bibliotecas. Define que se entiende por biblioteca o librería y los tipos que existen.
+
 
 
 **12).** Bibliotecas. ¿Qué tipo es el más utilizado actualmente? ¿Por qué?
@@ -144,9 +154,11 @@ Hola a todos y todas
 Más información en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
 
+
 **13).** Bibliotecas. Crea una biblioteca dinámica en C que proporcione  las funciones para sumar, restar, multiplicar y dividir 2 números  enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta  correctamente.
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
+
 
 
 **14).** Bibliotecas. Crea una biblioteca dinámica en Java que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números  enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta  correctamente.
@@ -154,10 +166,14 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
 
+
 **15).** Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas.
 
 
+
 **16).** Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas dinámicas.
+
+
 
 
 
@@ -168,14 +184,17 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Build.md 
 
 
+
 **18).** Build. Automatiza el proceso de compilación de ejecutable y  biblioteca, su enlazado y la generación del archivo .jar para código  fuente en Java con Ant. Haz uso de un buildfile.    
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Build.md 
 
 
+
 **19).** Build. Automatiza el proceso de compilación de ejecutable y  biblioteca, su enlazado y la generación del archivo .jar para código  fuente en Java con Maven. Haz uso de un buildfile.    
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Maven.md 
+
 
 
 **20).** Build. Automatiza el proceso de compilación de ejecutable y  biblioteca, su enlazado y la generación del archivo .jar para código  fuente en Java con Gradle. Haz uso de un buildfile.    

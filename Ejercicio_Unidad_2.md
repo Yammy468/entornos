@@ -95,6 +95,7 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 
 **6).** ¿Qué extensión tienen los archivos de código objeto?
+
 Los archivo la de código objeto tiene extensión ``` .obj```
 .
 

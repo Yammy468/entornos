@@ -17,7 +17,7 @@
 - lisp
 - ensamblador (nasm)
 
-![](/home/yammy/snap/typora/74/.config/Typora/typora-user-images/image-20221004101551869.png)
+
 
 Los paquetes a instalar en Ubuntu son: `python`, `php`, `nodejs`, `gcc`, `g++`, `openjdk-8-jdk`, `ruby`, `golang`, `rustc` , `clisp` y `nasm`.
 
@@ -95,8 +95,8 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 
 **6).** ¿Qué extensión tienen los archivos de código objeto?
-
-
+Los archivo la de código objeto tiene extensión ``` .obj```
+.
 
 **7).** Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes:
 

@@ -9,3 +9,8 @@
 
 
 Edited by Yana Zhu
+
+
+
+![naturaleza1 ](https://github.com/Yammy468/entornos/blob/main/images/naturaleza.jpg?raw=true)
+

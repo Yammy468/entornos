@@ -8,11 +8,11 @@ Es una secuencia estructurada y bien definida de las etapas en ingeniería de so
 
 **2.** Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
 
-- ANÁLISIS: determinar y definir las necesidades del cliente y especificar los requisitos que debe cumplir el software a desarrollar.
-- DISEÑO: descomponer y organizar el sistema en elementos por separados, y especificar la relación y función de los elementos.
-- CODIFICACIÓN: escribir el código fuente de cada componente
-- PRUEBAS: someter el programa a diferentes situaciones.
-- MANTENIMIENTO: en casos de realizar cambios se rehace parte del trabajo en los pasos anteriores.
+- **ANÁLISIS**: determinar y definir las necesidades del cliente y especificar los requisitos que debe cumplir el software a desarrollar.
+- **DISEÑO**: descomponer y organizar el sistema en elementos por separados, y especificar la relación y función de los elementos.
+- **CODIFICACIÓN**: escribir el código fuente de cada componente
+- **PRUEBAS**: someter el programa a diferentes situaciones.
+- **MANTENIMIENTO**: en casos de realizar cambios se rehace parte del trabajo en los pasos anteriores.
 
 **3.** Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de sofware.
 

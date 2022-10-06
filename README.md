@@ -12,5 +12,5 @@ Edited by Yana Zhu
 
 
 
-<img src="https://github.com/Yammy468/entornos/blob/main/images/naturaleza.jpg?raw=true" alt="naturaleza1 " style="zoom: 50%;" />
+<img src="https://github.com/Yammy468/entornos/blob/main/images/naturaleza.jpg?raw=true" alt="naturaleza1 " style="zoom: 25%;" />
 

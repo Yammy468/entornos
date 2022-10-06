@@ -17,7 +17,7 @@
 - lisp
 - ensamblador (nasm)
 
-
+https://github.com/Yammy468/entornos/blob/main/images/T2_E1-1.png
 
 Los paquetes a instalar en Ubuntu son: `python`, `php`, `nodejs`, `gcc`, `g++`, `openjdk-8-jdk`, `ruby`, `golang`, `rustc` , `clisp` y `nasm`.
 

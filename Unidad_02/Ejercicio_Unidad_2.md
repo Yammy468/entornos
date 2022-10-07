@@ -176,12 +176,17 @@ Hola a todos y todas
 
 **11).** Bibliotecas. Define que se entiende por biblioteca o librería y los tipos que existen.
 
+En este sentido, una biblioteca o librería es un conjunto de archivos que se utiliza para desarrollar software. Suele estar compuesta de código y datos, y su fin es ser utilizada por otros programas de forma totalmente autónoma. 
+- Biblioteca estática.
+- Bibliotecas dinámica.
 
 
 **12).** Bibliotecas. ¿Qué tipo es el más utilizado actualmente? ¿Por qué?
 
-Más información en https://github.com/jamj2000/DAW1-ED-Bibliotecas
+La más utilizada son las bibliotecas dinámicas (.DLL o .so) (.jar en Java). Ejemplos de librerías más usados: JavaScript, C++ y Python.
+Porque facilitan la gestión y aprovechamiento de la memoria del sistema. Permite al sistema operativo aplicar algoritmos que mejoren el rendimiento del sistema cuando se carguen estas bibliotecas. Además, al estar compartidas, basta con mantener una copia en memoria para todos los programas que la utilicen.
 
+Más información en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
 
 **13).** Bibliotecas. Crea una biblioteca dinámica en C que proporcione  las funciones para sumar, restar, multiplicar y dividir 2 números  enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta  correctamente.
@@ -198,10 +203,24 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
 **15).** Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas.
 
+*Ventaja*:
+- No es necesario proporcionar las bibliotecas correspondientes al publicar el programa.
+- Biblioteca de carga rápida.
+
+*Desventaja*: 
+- La biblioteca está empaquetada en la aplicación, lo que resulta en una gran biblioteca.
+- La biblioteca ha cambiado y es necesario volver a compilar el programa.
 
 
 **16).** Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas dinámicas.
 
+*Ventajas*:
+1. La programación se centra completamente en la esencia del diseño del programa, se mejora la simplicidad del código y la eficiencia del desarrollo.
+2. Debido a que la escala del programa se reduce, la inteligibilidad del programa también se mejora.
+
+*Desventajas*:
+1. La velocidad de ejecución del programa es lenta debido al lenguaje de tipo dinámico, la verificación de tipo se realiza en tiempo de ejecución. 
+2. No se pueden detectar errores sin ejecución. 
 
 
 

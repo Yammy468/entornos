@@ -155,6 +155,7 @@ gcc  -c  main.c  datos.c  suma.c
 
 Deberemos obtener 3 archivos:  `main.o`,  `suma.o`  y `datos.o`
 
+![image](https://user-images.githubusercontent.com/113978794/195024456-d1283e50-2ff2-49b1-a32a-346199d87855.png)
 
 
 **8).** Lenguaje C. Código en varios archivos. Obtener el código binario ejecutable a partir del código objeto de los 3 archivos anteriores:
@@ -173,6 +174,7 @@ Hola a todos y todas
 18
 ```
 
+![image](https://user-images.githubusercontent.com/113978794/195024540-a115644a-d2c7-4d13-b6cc-33bf8a66fc68.png)
 
 
 

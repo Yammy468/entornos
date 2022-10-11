@@ -93,6 +93,7 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
    - lisp
 
 ![image](https://user-images.githubusercontent.com/113978794/195017507-6835b31b-95fe-4ce6-8258-b3b2846939d5.png)
+![image](https://user-images.githubusercontent.com/113978794/195017734-4f1f2258-ea15-41f0-908f-17f6a1621d48.png)
 
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.

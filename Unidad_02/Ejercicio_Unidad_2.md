@@ -92,6 +92,11 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
    - rust
    - lisp
 
+<img scr="https://github.com/Yammy468/entornos/blob/main/images/T2_E05-1.png?raw=true" />
+
+<img scr="https://github.com/Yammy468/entornos/blob/main/images/T2_E05-2.png?raw=true" />
+
+
 Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 
 

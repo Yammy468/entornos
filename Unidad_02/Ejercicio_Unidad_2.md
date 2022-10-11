@@ -200,12 +200,14 @@ Más información en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
+![image](https://user-images.githubusercontent.com/113978794/195039740-b90174f1-dce7-425f-9f74-bdf287751fd9.png)
 
 
 **14).** Bibliotecas. Crea una biblioteca dinámica en Java que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números  enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta  correctamente.
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
+![image](https://user-images.githubusercontent.com/113978794/195039800-b45a75e7-4993-46fd-b732-c91c39149d24.png)
 
 
 **15).** Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas.

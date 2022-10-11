@@ -92,8 +92,7 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
    - rust
    - lisp
 
-<img scr="https://github.com/Yammy468/entornos/blob/main/images/T2_E05-1.png?raw=true" />
-<img scr="https://github.com/Yammy468/entornos/blob/main/images/T2_E05-2.png?raw=true" />
+![image](https://user-images.githubusercontent.com/113978794/195016092-82e4f775-f72f-44a8-9540-38f6d1058114.png)<img scr="https://github.com/Yammy468/entornos/blob/main/images/T2_E05-2.png?raw=true" />
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 

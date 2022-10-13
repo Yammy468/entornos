@@ -256,6 +256,9 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Bui
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Maven.md 
 
+![imagen](https://user-images.githubusercontent.com/113978794/195528952-a73c53a8-fddb-4cc1-bb46-6ac9f15da537.png)
+
+![imagen](https://user-images.githubusercontent.com/113978794/195529004-81a93721-f1f1-4aa7-b804-e93760c040c6.png)
 
 
 **20).** Build. Automatiza el proceso de compilación de ejecutable y  biblioteca, su enlazado y la generación del archivo .jar para código  fuente en Java con Gradle. Haz uso de un buildfile.    

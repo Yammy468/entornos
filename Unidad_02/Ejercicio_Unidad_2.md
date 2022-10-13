@@ -240,12 +240,16 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Build.md 
 
+![imagen](https://user-images.githubusercontent.com/113978794/195527682-f70cf53b-9e8a-4423-bf0f-7659865e46d7.png)
 
 
 **18).** Build. Automatiza el proceso de compilación de ejecutable y  biblioteca, su enlazado y la generación del archivo .jar para código  fuente en Java con Ant. Haz uso de un buildfile.    
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-Bibliotecas/blob/master/Build.md 
 
+![imagen](https://user-images.githubusercontent.com/113978794/195527749-ad625172-02b3-469a-9b71-89e80d834049.png)
+
+![imagen](https://user-images.githubusercontent.com/113978794/195527798-0450b382-e6b6-428c-9532-b6268198e9d3.png)
 
 
 **19).** Build. Automatiza el proceso de compilación de ejecutable y  biblioteca, su enlazado y la generación del archivo .jar para código  fuente en Java con Maven. Haz uso de un buildfile.    

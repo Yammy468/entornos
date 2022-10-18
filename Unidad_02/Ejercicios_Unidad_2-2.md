@@ -3,6 +3,7 @@
 ## Entornos integrados de desarrollo
 
 **1.-** Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
+![imagen](https://user-images.githubusercontent.com/113978794/196381580-39d4eb0d-e70f-4b34-865f-92b729af300d.png)
 
 
 

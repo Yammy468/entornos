@@ -67,20 +67,33 @@ Archivo: ``prueba.html``
 
 **5.-** Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
 
-- terminal integrado
+- Terminal integrado:
+En Visual Studio Code, ya tiene incorporado un terminal, está se puede cambiar el tamaño de la terminal y dividir las vistas para tener una o varias terminales visibles al mismo tiempo.
+En cambio, en Sublime no tiene soporte para terminal incorporado. Para tener un terminal, el editor sublime tiene un paquete de Terminal que debe instalarse para ejecutar la línea de comando.
 
-- emmet incorporado
+- Emmet incorporado:
+En Visual Studio, Emmet tiene un  autocompletado de HTML, además puede usarse para generar etiquetas a medida que las vamos escribiendo o para formatear texto ya existente. También vale para CSS .
+En Sublime text hay que instalar el Emmet en el sitio web y también funciona tanto para HTML y CSS.
 
-- iconos para los tipos de archivos
+- Iconos para los tipos de archivos: 
+En Visual Studio se usan iconos de estilo moderno, con líneas geométricas limpias, un equilibrio de 50/50 de positivo/negativo (claro/oscuro) y con metáforas directas y comprensibles. 
+Sin embargo, en Sublime text se tiene que descargar el paquete para los iconos. Después de instalar el paquete, automáticamente puede ver en el sidebar los iconos de los archivos que cambian según el formato o tipo de archivo que le corresponde.
 
-- atajo de teclas para comentar (Ctrl+Shift+7)
+- Atajo de teclas para comentar (Ctrl+Shift+7): 
+En Visual Studio Code: primero pulsa [CTRL] + K (Vscode queda a la espera), después pulsa [CTRL] + C para comentar y [CTRL] + U para descomentar.
+En Sublime text: para comentar/descomentar código de forma rápida podemos configurar la combinación de teclas CTRL+ 7.
 
-- atajo de teclas para buscar y seleccionar (Ctrl+D)
-
+- Atajo de teclas para buscar y seleccionar (Ctrl+D):
+En Visual Studio Code --> Ctrl + D: una vez abierto el cuadro de búsqueda, se selecciona un determinado fragmento de código y se añade automáticamente a la búsqueda, de forma que se identifiquen todas las coincidencias de dicho código.
+En Sublime text --> Ctrl + D (para seleccionar) y Ctrl + F (para encontrar).
   
 
 **6.-** ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
-
+Se instala Open JDK:
+```$ sudo apt-get install openjdk-8-jdk```
+Y se instala Geany:
+```$ sudo apt-get install geany```
+```$ sudo apt-get install geany-plugins```
 
 
 **7.-** Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 

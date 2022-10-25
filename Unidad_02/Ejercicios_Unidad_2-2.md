@@ -108,14 +108,17 @@ Y se instala Geany:
 
 **7.-** Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
 
+![imagen](https://user-images.githubusercontent.com/113978794/197747682-f99ac3c4-1ffd-4acb-acd7-291cb08f7a25.png)
 
 
 **8.-** Instala el entorno integrado Eclipse. Saca una captura de pantalla una vez instalado y funcionando. 
 
+![imagen](https://user-images.githubusercontent.com/113978794/197747777-ed7f4fc5-04e9-420e-843b-3d8883f3813c.png)
 
 
 **9.-** Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
 
+![imagen](https://user-images.githubusercontent.com/113978794/197747855-eb363eee-fced-43f3-98d3-1724243ebfd9.png)
 
 
 **10.-** ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.

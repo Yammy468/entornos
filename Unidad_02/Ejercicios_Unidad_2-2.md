@@ -123,5 +123,5 @@ Y se instala Geany:
 
 **10.-** ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
 
-
+Usa los sistemas de Java y HTML.
 

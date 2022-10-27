@@ -63,7 +63,7 @@ Archivo: ``prueba.html``
 
 **4.-** Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
 
-![imagen](https://github.com/Yammy468/entornos/blob/main/images/T2-2_E04.png)
+![imagen](https://github.com/Yammy468/entornos/blob/main/images/T2-2_E04.png?raw=true)
 
 **5.-** Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
 

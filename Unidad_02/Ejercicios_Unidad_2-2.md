@@ -62,6 +62,8 @@ Archivo: ``prueba.html``
 ```
 
 **4.-** Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
+![imagen](https://github.com/Yammy468/entornos/raw/main/images/T2-2_E04.png?raw=true)
+
 
 ![imagen](https://github.com/Yammy468/entornos/blob/main/images/T2-2_E04.png?raw=true)
 

@@ -14,4 +14,4 @@ Las espadas quedan en alto para la competición en nuestro Centro.
 
 [https://www.diariodejerez.es/jerez/Torneo-ajedrez-IES-Asta-Regia_3_1675662428.html](https://www.google.com/url?q=https%3A%2F%2Fwww.diariodejerez.es%2Fjerez%2FTorneo-ajedrez-IES-Asta-Regia_3_1675662428.html&sa=D&sntz=1&usg=AOvVaw3ARmlmLdMa9KMXd7dMLy8-)
 
-![Imagen de carrusel](https://lh6.googleusercontent.com/sLJdVNEkB9p5dsNV4NyF9tuY9gfZGBuj6hWDjZgJoWf3GZRaiQD9B9hB1mszAElUxTzf10ZltK71L4n536MXhX4=w16383)
+![Imagen de carrusel](https://lh4.googleusercontent.com/Nc4yXccCvaELalBbf1g9X4v2XZEXskBrXOp_H0ZrbPvkLS_X72sKKdU3tWkBWJAphKmS4kpbEMF7agOQ6dUZSfQ=w16383)

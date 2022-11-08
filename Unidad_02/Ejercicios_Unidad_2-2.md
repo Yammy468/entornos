@@ -65,6 +65,8 @@ Archivo: ``prueba.html``
 
 ![imagen](https://github.com/Yammy468/entornos/raw/main/images/T2-2_E04.png?raw=true)
 
+
+
 **5.-** Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
 
 - Terminal integrado:

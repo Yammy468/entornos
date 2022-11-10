@@ -2,12 +2,12 @@
 
 ## Entornos integrados de desarrollo
 
-**1.-** Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
+**1).** Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 ![imagen](https://user-images.githubusercontent.com/113978794/196381580-39d4eb0d-e70f-4b34-865f-92b729af300d.png)
 
 
 
-**2.-** Personaliza Sublime text instalando los complementos más importantes. 
+**2).** Personaliza Sublime text instalando los complementos más importantes. 
 
 Consulta la página https://www.genbetadev.com/desarrollo-web/10-packages-de-sublimetext-para-desarrolladores-web
 
@@ -23,7 +23,7 @@ Consulta la página https://www.genbetadev.com/desarrollo-web/10-packages-de-sub
 
 
 
-**3.-** ¿Para que sirve el complemento **Emmet**? Haz uso de él al escribir un archivo html de prueba.
+**3).** ¿Para que sirve el complemento **Emmet**? Haz uso de él al escribir un archivo html de prueba.
 **Emmet** es un plugin que se puede incorporar en muchos editores de texto, como Sublime Text, Brackets, Eclipse, Netbeans. Permite que  la parte mecánica de la programación, que es escribir los tags o palabras reservadas suponga mucho menos esfuerzo y tiempo.
 
 Archivo: ``prueba.html``
@@ -61,13 +61,13 @@ Archivo: ``prueba.html``
 </html>
 ```
 
-**4.-** Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
+**4).** Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
 
 ![imagen](https://github.com/Yammy468/entornos/raw/main/images/T2-2_E04.png?raw=true)
 
 
 
-**5.-** Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
+**5).** Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
 
 - Terminal integrado:
 
@@ -95,7 +95,7 @@ En Visual Studio Code --> Ctrl + D: una vez abierto el cuadro de búsqueda, se s
 En Sublime text --> Ctrl + D (para seleccionar) y Ctrl + F (para encontrar).
   
 
-**6.-** ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
+**6).** ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
 
 Se instala Open JDK:
 
@@ -108,22 +108,22 @@ Y se instala Geany:
 ```$ sudo apt-get install geany-plugins```
 
 
-**7.-** Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
+**7).** Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
 
 ![imagen](https://user-images.githubusercontent.com/113978794/197747682-f99ac3c4-1ffd-4acb-acd7-291cb08f7a25.png)
 
 
-**8.-** Instala el entorno integrado Eclipse. Saca una captura de pantalla una vez instalado y funcionando. 
+**8).** Instala el entorno integrado Eclipse. Saca una captura de pantalla una vez instalado y funcionando. 
 
 ![imagen](https://user-images.githubusercontent.com/113978794/197747777-ed7f4fc5-04e9-420e-843b-3d8883f3813c.png)
 
 
-**9.-** Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
+**9).** Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
 
 ![imagen](https://user-images.githubusercontent.com/113978794/197747855-eb363eee-fced-43f3-98d3-1724243ebfd9.png)
 
 
-**10.-** ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
+**10).** ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
 
 Usa los sistemas de Java y HTML.
 

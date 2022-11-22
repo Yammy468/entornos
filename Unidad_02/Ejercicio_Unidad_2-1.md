@@ -1,4 +1,4 @@
-# Ejericicios Unidad 2
+# Ejercicios Unidad 2
 
 ## Heramientas de desarrollo
 

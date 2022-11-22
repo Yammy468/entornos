@@ -1,4 +1,4 @@
-﻿# Ejercios Unidad 1
+﻿# Ejercicios Unidad 1
 
 ## Ciclo de vida del sofware
 

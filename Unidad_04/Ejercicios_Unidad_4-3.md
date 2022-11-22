@@ -10,12 +10,19 @@ Sistemas de control de versiones más conocidos (además de **Git**):
 * Subversion
 * Mercurial
 
+
 **2).** En Git, ¿qué tres áreas existen?
 
+En Git, las áreas que existen son los siguientes:
+
+- Working directory (directorio de trabajo)
+- Staging area (área de preparación)
+- Repository (directorio de Git)
 
 
 **3).** Busca en Internet un buen tutorial de GIT y realízalo. ¿De qué tutorial se trata?
 
+Tutorial de git: https://www.atlassian.com/es/git (Aprende Git correctamente con "Bitbucket Cloud" de ejemplo)
 
 
 **4).** Visualiza el siguiente video y responde a las cuestiones que aparecen más abajo.

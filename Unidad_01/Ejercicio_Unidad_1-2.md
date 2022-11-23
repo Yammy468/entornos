@@ -1,5 +1,3 @@
-Entorno Unidad 2
-
 # Entorno de desarrollo
 
 ## KANBAN, SCRUM y XP

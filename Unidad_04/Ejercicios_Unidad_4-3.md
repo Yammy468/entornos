@@ -22,8 +22,7 @@ En Git, las áreas que existen son los siguientes:
 
 **3).** Busca en Internet un buen tutorial de GIT y realízalo. ¿De qué tutorial se trata?
 
-Tutorial de git: https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud (Aprende Git correctamente con "Bitbucket Cloud" de ejemplo)
-
+Tutorial de git: https://programarfacil.com/blog/arduino-blog/git-y-github/ (Git y Github)
 
 **4).** Visualiza el siguiente video y responde a las cuestiones que aparecen más abajo.
 

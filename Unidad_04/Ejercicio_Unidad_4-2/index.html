@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://Yammy468.github.io/daw1/Unidad_04/Ejercicio_Unidad_4-2/" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Ejercicios Unidad 4 - DAW1</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Ejercicios Unidad 4";
+        var mkdocs_page_input_path = "Unidad_04/Ejercicio_Unidad_4-2.md";
+        var mkdocs_page_url = "/daw1/Unidad_04/Ejercicio_Unidad_4-2/";
+      </script>
+    
+    <script src="../../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> DAW1
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Unidad_01/Ejercicio_Unidad_1-1/">Unidad 1-1</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Unidad_01/Ejercicio_Unidad_1-2/">Unidad 1-2</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Unidad_01/Ejercicio_Unidad_1-3/">Unidad 1-3</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Unidad_02/Ejercicio_Unidad_2-1/">Unidad 2-1</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../Unidad_02/Ejercicios_Unidad_2-2/">Unidad 2-2</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../Ejercicios_Unidad_4-3/">Unidad 4-3</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../about/">About</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">DAW1</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>Ejercicios Unidad 4</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="ejercicios-unidad-4">Ejercicios Unidad 4</h1>
+<h1 id="entorno-de-desarrollo">Entorno de desarrollo</h1>
+<h2 id="documentacion">Documentación</h2>
+<p><strong>0.1).</strong> Genera la documentación técnica de Javadoc para el codigo fuente de algún ejercicio Java que hayas realizado en clase.</p>
+<pre><code class="language-java"> /**
+  * Inserta un título en la clase descripción.
+  * Al ser el título obligatorio, si es nulo o vacío se lanzará
+  * una excepción.
+  *
+  * @param titulo El nuevo título de la descripción.
+  * @throws IllegalArgumentException Si titulo es null, está vacío o contiene sólo espacios.
+
+  */
+ public void setTitulo (String titulo) throws IllegalArgumentException
+ {
+   if (titulo == null || titulo.isBlank())
+   {
+       throw new IllegalArgumentException(&quot;El título no puede ser nulo o vacío&quot;);
+   }
+   else
+   {
+       this.titulo = titulo;
+   }
+ }
+</code></pre>
+<p><strong>0.2).</strong> En tu repositorio "Apuntes-ED" de GitHub, crea un archivo <code>SUMMARY.md</code> con un contenido similar al siguiente:</p>
+<pre><code class="language-lang-markdown"># Summary
+
+* [Unidad 1: Elementos de desarrollo del software](1.ELEMENTOS.md)    
+* [Unidad 2: Entornos integrados de desarrollo](2.ENTORNOS.md)  
+* [Unidad 3: Diseño y realización de prueba](3.PRUEBAS.md)  
+* [Unidad 4: Documentación y optimización](4.DOCUMENTACION.md)  
+* [Unidad 5: Elaboración de diagramas de clases](5.DIAGRAMAS_CLASES.md)  
+* [Unidad 6: Elaboración de diagramas de comportamiento](6.DIAGRAMAS_COMPORTAMIENTO.md)
+</code></pre>
+<p>Esto nos servirá más adelante para generar la tabla de contenido de un futuro libro en GitBook.</p>
+<p><strong>0.3).</strong> En tu repositorio "Apuntes-ED" de GitHub, crea otro archivo <code>book.json</code> con el siguiente contenido:</p>
+<pre><code class="language-lang-json">{
+ &quot;gitbook&quot;: &quot;3.x.x&quot;,
+ &quot;plugins&quot; : [
+     &quot;include-codeblock&quot;,
+     &quot;ace&quot;
+ ],
+ &quot;pluginsConfig&quot;: {
+     &quot;include-codeblock&quot;: {
+        &quot;template&quot;:&quot;acefull&quot;,
+        &quot;unindent&quot;: true
+     }
+ }
+}
+</code></pre>
+<p>Esto nos servirá más adelante para el coloreado de código fuente de un futuro libro en GitBook.</p>
+<p><strong>1).</strong> Ahora vamos a generar un libro en distintos formatos (PDF, Mobi y ePub) para tus apuntes de ED. Para ello registrate en https://www.gitbook.com con tu cuenta de GitHub.</p>
+<p><img alt="imagen" src="https://user-images.githubusercontent.com/113978794/208885631-2066235b-dd40-4d46-b1b9-e4e4b2445827.png" /></p>
+<p><strong>2).</strong> Inicia sesión de GitBook y pulsa en "+New Book" y después en "Book &amp; Manual". Rellena los campos de "Title" y "Description". Finalmente pulsa en "Create Book".</p>
+<p><img alt="imagen" src="https://user-images.githubusercontent.com/113978794/208886095-c8cf7e9c-bbdb-409a-a6f8-f2189812749b.png" /></p>
+<p><strong>3).</strong> Pulsa en el logotipo que aparece en la parte superior izquierda  para ir a la página principal de GitBook. Luego, en la sección referida  al libro que has creado, pulsa en la flecha que aparece al lado de  "Edit" y después en "Settings".</p>
+<p><img alt="T04_E3.png" src="https://github.com/Yammy468/entornos/blob/main/images/T04_E3.png?raw=true" /></p>
+<p><strong>4).</strong> Después pulsa en "GitHub" y "Select a Repository" y marca tu repositorio "Apuntes-ED" y finalmente "Sync".</p>
+<p><img alt="T04-E4-1.png" src="https://github.com/Yammy468/entornos/blob/main/images/T04-E4-1.png?raw=true" /></p>
+<p><img alt="T04-E4-2.png" src="https://github.com/Yammy468/entornos/blob/main/images/T04-E4-2.png?raw=true" /></p>
+<p><img alt="imagen" src="https://user-images.githubusercontent.com/113978794/208886269-fd27cabc-1eef-4dd5-956f-f0195591668b.png" /></p>
+<p><strong>5).</strong> Para ver y descargar el resultado en distintos formatos (PDF,  Mobi y ePub) vuelve a la página principal pinchando en el logotipo que  aparece en la parte superior izquierda. Y después pulsa en el título del libro.</p>
+<p><img alt="imagen" src="https://user-images.githubusercontent.com/113978794/208886410-d7a55b2e-3e83-4442-a781-73392759aea0.png" /></p>
+<p><strong>6).</strong> Verás un botón para descargar el libro en distintos formatos. Haz una descarga del libro en formato PDF.</p>
+<p><img alt="T04-E6.png" src="https://github.com/Yammy468/entornos/blob/main/images/T04-E6.png?raw=true" /></p>
+<p><img alt="imagen" src="https://user-images.githubusercontent.com/113978794/208886481-b83ac6b8-e445-47ce-bfbf-bcbc91c5a40c.png" /></p>
+              
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

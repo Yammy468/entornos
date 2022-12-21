@@ -1,0 +1,51 @@
+# Optimización
+
+1. ¿Qué se entiende por hediondez del código? Pon al menos 5 ejemplos.
+
+   La **hediondez del código** (***code smell*** en inglés) es cualquier síntoma en el código fuente de un programa que posiblemente indica un problema más profundo. Las hediondeces del código usualmente no son bug de programación (errores): no son técnicamente incorrectos y no impiden que el programa funcione correctamente. Mas bien, indican deficiencias  en el diseño de software que puede ralentizar el desarrollo o aumentan el riesgo de errores o fallos en el futuro.
+
+   Ejemplos:
+
+   * Checkstyle
+   * PMD 
+   * FindBugspara Java
+   * LibreríasReek 
+   * Cane
+
+2. ¿Qué tipo de herramienta utilizamos para hacer análisis estático del código?
+
+   Tipos de herramientas:
+
+   * Linters
+
+   * Continuous Inspection o Continuous Analysis
+
+     
+
+3. ¿Qué sitios web nos permiten hacer análisis estático del código o **Continuous Inspection**?
+
+   Sitios web:
+
+   * Scrutinizer
+
+   * SonarQube
+
+     
+
+4. Instala en Netbeans el plugin **FindBugs**, si no lo tienes aún instalado.
+
+   
+
+5. Realiza **análisis estático de código** para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)
+
+   
+
+6. Indica al menos un `code smell` relevante de cada clase. Explica cómo podría solucionarse.
+
+   
+
+7. ¿Qué es la refactorización?
+
+   
+
+8. ¿Qué técnicas se utilizan a menudo a la hora de refactorizar?

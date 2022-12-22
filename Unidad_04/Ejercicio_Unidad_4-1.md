@@ -1,57 +1,57 @@
-# Optimización
+# Ejercicios Unidad 4
 
-1. ¿Qué se entiende por hediondez del código? Pon al menos 5 ejemplos.
+## Optimización
 
-   La **hediondez del código** (***code smell*** en inglés) es cualquier síntoma en el código fuente de un programa que posiblemente indica un problema más profundo. Las hediondeces del código usualmente no son bug de programación (errores): no son técnicamente incorrectos y no impiden que el programa funcione correctamente. Mas bien, indican deficiencias  en el diseño de software que puede ralentizar el desarrollo o aumentan el riesgo de errores o fallos en el futuro.
+**1).** ¿Qué se entiende por hediondez del código? Pon al menos 5 ejemplos.
 
-   Ejemplos:
+La **hediondez del código** (***code smell*** en inglés) es cualquier síntoma en el código fuente de un programa que posiblemente indica un problema más profundo. Las hediondeces del código usualmente no son bug de programación (errores): no son técnicamente incorrectos y no impiden que el programa funcione correctamente. Mas bien, indican deficiencias  en el diseño de software que puede ralentizar el desarrollo o aumentan el riesgo de errores o fallos en el futuro.
 
-   * Checkstyle
-   * PMD 
-   * FindBugspara Java
-   * LibreríasReek 
-   * Cane
+Ejemplos:
 
-2. ¿Qué tipo de herramienta utilizamos para hacer análisis estático del código?
+* Checkstyle
+* PMD 
+* FindBugspara Java
+* LibreríasReek 
+* Cane
 
-   Tipos de herramientas:
 
-   * Linters
+**2).** ¿Qué tipo de herramienta utilizamos para hacer análisis estático del código?
 
-   * Continuous Inspection o Continuous Analysis
+Tipos de herramientas:
 
-     
+* Linters
 
-3. ¿Qué sitios web nos permiten hacer análisis estático del código o **Continuous Inspection**?
+* Continuous Inspection o Continuous Analysis
 
-   Sitios web:
 
-   * Scrutinizer
+**3).** ¿Qué sitios web nos permiten hacer análisis estático del código o **Continuous Inspection**?
 
-   * SonarQube
+Sitios web:
 
-     
+* Scrutinizer
 
-4. Instala en Netbeans el plugin **FindBugs**, si no lo tienes aún instalado.
+* SonarQube
 
-   
 
-5. Realiza **análisis estático de código** para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)
+**4).** Instala en Netbeans el plugin **FindBugs**, si no lo tienes aún instalado.
 
-   
 
-6. Indica al menos un `code smell` relevante de cada clase. Explica cómo podría solucionarse.
+**5).** Realiza **análisis estático de código** para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)
+
+
+**6).** Indica al menos un `code smell` relevante de cada clase. Explica cómo podría solucionarse.
 
 * Análisis dinámico: unit tests
-* Análisis estático: lint
- 
 
-7. ¿Qué es la refactorización?
+* Análisis estático: lint
+
+
+**7).** ¿Qué es la refactorización?
 
 Es el proceso de reestructurar un código fuente, alterando su estructura interna sin cambiar su comportamiento externo.
 
 
-8. ¿Qué técnicas se utilizan a menudo a la hora de refactorizar?
+**8).** ¿Qué técnicas se utilizan a menudo a la hora de refactorizar?
 
 Técnicas:
 
@@ -66,5 +66,4 @@ Técnicas:
 - Eliminación de código muerto
 
   
-
 

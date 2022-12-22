@@ -42,10 +42,29 @@
 
 6. Indica al menos un `code smell` relevante de cada clase. Explica cómo podría solucionarse.
 
-   
+* Análisis dinámico: unit tests
+* Análisis estático: lint
+ 
 
 7. ¿Qué es la refactorización?
 
-   
+Es el proceso de reestructurar un código fuente, alterando su estructura interna sin cambiar su comportamiento externo.
+
 
 8. ¿Qué técnicas se utilizan a menudo a la hora de refactorizar?
+
+Técnicas:
+
+- Renombrado de variables
+
+- Pasar código duplicado a funciones
+
+- Eliminación de código inalcanzable
+
+- Eliminación de código redundante
+
+- Eliminación de código muerto
+
+  
+
+

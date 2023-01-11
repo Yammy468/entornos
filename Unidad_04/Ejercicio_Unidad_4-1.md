@@ -33,7 +33,9 @@ Sitios web:
 * SonarQube
 
 
-**4).** Instala en Netbeans el plugin **FindBugs**, si no lo tienes aún instalado.
+**4).** Instala en Netbeans/IntelliJ el plugin **FindBugs**, si no lo tienes aún instalado.
+
+![imagen](https://user-images.githubusercontent.com/113978794/211783961-839adcd3-49f6-4c8e-a965-1617ea01cedf.png)
 
 
 **5).** Realiza **análisis estático de código** para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)

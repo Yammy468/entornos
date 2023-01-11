@@ -37,6 +37,8 @@ Sitios web:
 
 ![imagen](https://user-images.githubusercontent.com/113978794/211783961-839adcd3-49f6-4c8e-a965-1617ea01cedf.png)
 
+![imagen](https://user-images.githubusercontent.com/113978794/211801034-69db1e8e-1f1c-4fd0-b840-2e47e0bcf42d.png)
+
 
 **5).** Realiza **análisis estático de código** para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)
 

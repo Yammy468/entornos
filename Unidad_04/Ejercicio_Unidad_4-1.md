@@ -42,6 +42,11 @@ Sitios web:
 
 **5).** Realiza **análisis estático de código** para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)
 
+![imagen](https://user-images.githubusercontent.com/113978794/211816991-ffcd2d4d-a7dc-4d2e-9054-ebd0ebf31bcc.png)
+
+![imagen](https://user-images.githubusercontent.com/113978794/211817037-645ac42d-a4b4-4be4-99a5-dbaec99ab0ca.png)
+
+
 
 **6).** Indica al menos un `code smell` relevante de cada clase. Explica cómo podría solucionarse.
 

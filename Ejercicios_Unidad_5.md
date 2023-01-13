@@ -80,12 +80,12 @@ Por otro lado, UML se ha ido fomentando y aceptando como estándar desde el OMG.
 
 ## Software
 
-**1).** En Netbeans, instala el plugin **EasyUML**.
+**1).** En Netbeans/IntelliJ, instala el plugin **EasyUML/Diagrama.net**.
 
 
 
-**2).** Escoge uno de tus proyectos realizado en Java que disponga de varias clases. Genera el diagrama de clases haciendo uso del plugin **EasyUML**.
+**2).** Escoge uno de tus proyectos realizado en Java que disponga de varias clases. Genera el diagrama de clases haciendo uso del plugin **EasyUML/Diagrama.net**.
 
 
 
-**3).** Haciendo uso del plugin **EasyUML** diseña un proyecto con varias clases y genera el código automáticamente.
+**3).** Haciendo uso del plugin **EasyUML/Diagrama.net** diseña un proyecto con varias clases y genera el código automáticamente.

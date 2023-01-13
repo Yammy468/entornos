@@ -6,7 +6,7 @@
 
 Las siglas UML significa **Unified Modeling Language** (lenguaje unificado de modelado), es un lenguaje visual de propósito general para representar modelos que pretende proporcionar una forma estándar de representar el diseño de un sistema. En la que dispone de numerosos tipos de diagramas, cada tipo de diagrama tiene diferente modelo.
 
-**Historia**:
+**Historia** :
 
 El lenguaje UML comenzó a gestarse en octubre de 1994, cuando Rumbaugh se  unió a la compañía Rational fundada por Booch (dos reputados investigadores en el área de metodología del software).
 
@@ -15,7 +15,7 @@ Cuyos objetivo era unificar dos métodos que habían desarrollado: el método Bo
 De las tres metodologías de partida: las de Booch y Rumbaugh pueden ser descritas como centradas en objetos (se enfocan hacia el modelado de los objetos) y la metodología de Jacobson es más centrada a usuario (su método se deriva de los escenarios de uso).
 Por otro lado, UML se ha ido fomentando y aceptando como estándar desde el OMG. En 1997 UML 1.1 fue aprobada por la OMG convirtiéndose en la notación estándar de facto para el análisis y el diseño orientado a objetos.
 
-**Versiones**:
+**Versiones** :
 
 - Unified Modeling Language (UML) Versión 0.8 y 0.9 (1995)
 - Unified Modeling Language (UML) Versión 1.0 y 1.1 (Año 1997)

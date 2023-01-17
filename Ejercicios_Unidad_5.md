@@ -66,12 +66,27 @@ Por otro lado, UML se ha ido fomentando y aceptando como estándar desde el OMG.
 
 **3).** Indica los tipos de relaciones que pueden darse y explica brevemente.
 
-- Asociación
-  - Agregación
-  - Composición
-- Dependencia
-- Generalización
-- Realización   
+- **Asociación** : es una relación estructural que describe una conexión entre objetos. Se muestra como una línea continua que une las clases relacionadas entre sí.
+  - **Agregación** : es un tipo de asociación más específico que indica que una clase es "parte de" otra clase (composición débil). 
+ 
+  ![imagen](https://user-images.githubusercontent.com/113978794/212854263-8aede102-752a-43c9-95fc-bd012b21a8fa.png)
+
+  - **Composición** : es una forma fuerte de composición donde la vida de la clase contenida debe coincidir con la vida de la clase contenedor. Este tipo de relación se utiliza para representar la dependencia de los objetos de la entidad focal.
+  
+  ![imagen](https://user-images.githubusercontent.com/113978794/212854394-2682679a-964f-4629-8636-e3d1c0107c40.png)
+
+- **Dependencia** : este es un tipo de relación más débil que se usa cuando un objeto no está contenido en ningún campo.
+
+![imagen](https://user-images.githubusercontent.com/113978794/212854488-49befd73-2a46-466a-afae-f409e6705252.png)
+
+- **Generalización** : se utiliza para representar las relaciones de la clase principal y la clase secundaria. Se puede ver una "especie de" relación entre los clasificadores y cómo una entidad se basa en la otra, heredando los  atributos, las operaciones y las relaciones de los padres.
+
+![imagen](https://user-images.githubusercontent.com/113978794/212854570-b8c09f6f-cbb8-4243-a6ce-f527829a1a6a.png)
+
+- **Realización** : es una relación que vincula dos elementos del modelo con un clasificador realizando el comportamiento de otro clasificador. Esta relación ayuda a comprender cómo afecta la interfaz a la clase de implementación. 
+
+![imagen](https://user-images.githubusercontent.com/113978794/212854672-dc4c0bc7-8a7a-4a6a-8f17-3a71d53b5820.png)
+
 
 **4).** Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.
 

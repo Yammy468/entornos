@@ -90,6 +90,7 @@ Por otro lado, UML se ha ido fomentando y aceptando como estándar desde el OMG.
 
 **4).** Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.
 
+:heavy_check_mark:  
 
 
 ## Software

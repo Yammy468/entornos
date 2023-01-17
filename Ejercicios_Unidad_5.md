@@ -58,10 +58,16 @@ Por otro lado, UML se ha ido fomentando y aceptando como estándar desde el OMG.
 
 **1).** Siguiendo la notación UML, pon 2 ejemplos de clases distintos a los vistos en este tema.
 
+![imagen](https://user-images.githubusercontent.com/113978794/212862936-6baddb1b-b2f9-4202-af07-f6d76b342f25.png)
+
+![imagen](https://user-images.githubusercontent.com/113978794/212862986-986b6109-eb59-49ed-adbb-8a00342df41c.png)
 
 
 **2).** Siguiendo la notación UML, pon 2 ejemplos de interfaces distintos a los vistos en este tema.
 
+![imagen](https://user-images.githubusercontent.com/113978794/212863061-6b8ec5f3-ce28-4f6a-b112-dd3f16a9e710.png)
+
+![imagen](https://user-images.githubusercontent.com/113978794/212863115-9a33e41b-e53b-421b-b5f7-1e80ad73615b.png)
 
 
 **3).** Indica los tipos de relaciones que pueden darse y explica brevemente.

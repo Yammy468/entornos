@@ -47,8 +47,7 @@ Por otro lado, UML se ha ido fomentando y aceptando como estándar desde el OMG.
   - Diagrama de Actividad
   - Diagrama de Casos de uso
   - Diagrama de Maquina de estado
-  - Diagrama de Interacción
- 
+  - Diagrama de Interacción:
     	- Digrama de Tiempos
     	- Diagrama de Secuencias
     	- Diagrama de Comunicación

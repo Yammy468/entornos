@@ -50,7 +50,7 @@ En el método de pago:
 
 - Se puede pagar mediante pago de tarjeta de crédito o pago de PayPal.
 
-  
+
 
 ------
 
@@ -100,7 +100,17 @@ Los elementos de **Diagramas de secuencia** :
 
 
 
+En la librería online, el cliente online/ de la web puede acceder a la librería online o poder comprar en una librería digital. 
 
+Se repite siempre las opciones/actividades:
+
+=> El cliente puede buscar en la librería online, en la que le devuelve el resultado de su búsqueda.
+
+=> El cliente puede optar si quiere ver una resumen o una descripción del libro.
+
+=> También puede optar por si le gusta un libro y añadirlo a la cesta de compra.
+
+Luego se opta para finalizar con un atributo de verificar la compra, por si  ya no quiere comprar el libro.
 
 
 
@@ -114,7 +124,15 @@ Los elementos de **Diagramas de secuencia** :
 
 
 
+En un sistema de autentificación de usuarios de Facebook, el personal/usuario obtiene su recurso FB para acceder al navegador web con un formulario de permiso. O puede entrar con su permiso de usuario, y luego se accede al servidor de Facebook, después de pasar el proceso de permiso.
 
+Luego desde la web se accede a la aplicación con una solicitud de acceso FB.
+
+O también puede acceder desde la web al servidor de autorización de Facebook con una autorización para permitir su acceso.
+
+Desde el acceso con el usuario, luego de acceder con el permiso de usuario, el sistema tiene como alternativa conceder el permiso de entrada a la aplicación (autentificando el código FB) y luego acceder al servidor de Facebook (autentificando también el código FB) o al servidor de contenido del Facebook (con recurso FB de acceso de usuario protegido). El sistema protege el usuario luego de haber tenido el permiso de entrada.
+
+O desde el acceso con el usuario, como alternativa, cuando no concede el permiso de usuario, el sistema automáticamente, no permite la entrada a la aplicación desde la web.
 
 
 

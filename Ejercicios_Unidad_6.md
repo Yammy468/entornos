@@ -30,13 +30,43 @@ Los elementos de **Diagramas de casos de uso** :
 
 
 
+En un sistema de compra digital se quiere organizar los datos de los clientes que compra online. Todos los clientes, tanto los que están registrados como los que son nuevos, son clientes de la web. 
+
+Todos los clientes pueden ver los artículos de compra siempre y cuando estén autentificados (con un proveedor de identidad, solo los registrados). Pero solo los registrados pueden comprar, los nuevos se tienen  que hacerse cliente para poder hacer las compras. 
+
+Para hacer la compra primero se tiene que autentificarse con un proveedor de identidad y luego acceder a los métodos de pagos, puede ser a traves de pago de crédito o PayPal.
+
+En el método de pago: 
+
+- Para poder acceder a la autentificación de los clientes, se tiene que:
+
+​		=> Autentificarse, se inicia sesión como usuario, guardar/recordar su usuario y luego iniciar su sesión (único).
+
+​		=> Luego pasar por el proveedor de identidad, se identifica con su inicio de sesión único.
+
+- Se puede ver los artículos comprado y/o subir su tarjeta de crédito para poder realizar su compra final/total.
+
+- También incluye los impuestos y los gastos de envió de la compra. 
+
+- Se puede pagar mediante pago de tarjeta de crédito o pago de PayPal.
+
+  
+
+------
+
 
 
 - **Ejemplo 2** :
 
-  ![Ejemplo_2_casos_de_uso.png](https://github.com/Yammy468/entornos/blob/main/images/Ejemplo_2_casos_de_uso.png?raw=true) 
+  ![](https://github.com/Yammy468/entornos/blob/main/images/Ejemplo_2_casos_de_uso.png?raw=true) 
 
 
+
+Para hospitalizar en un hospital, se tiene que estar registrado en el hospital que quiere.
+
+Para ello, la recepcionista tiene que acceder a la hospitalización del paciente, y luego al registro del paciente para poder programar el ingreso al hospital del paciente mediante una cita. A parte, el paciente debe presentar a la recepcionista sus informes médicos y los formularios/reclamaciones de seguros.
+
+En la hospitalización del paciente, el paciente puede estar ingresado en el ambulatorio o en los pacientes internados con su camas asignados a cada pacientes.
 
 
 
@@ -60,6 +90,8 @@ Los elementos de **Diagramas de secuencia** :
 
 ![diagrama_secuencia.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_secuencia.png?raw=true)
 
+
+
 **2).** Por cada ejemplo de diagrama de secuencia que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.
 
 - **Ejemplo 1** :
@@ -70,9 +102,17 @@ Los elementos de **Diagramas de secuencia** :
 
 
 
+
+
+------
+
+
+
 - **Ejemplo 2** :
 
   ![Ejemplo_2_secuencia.png](https://github.com/Yammy468/entornos/blob/main/images/Ejemplo_2_secuencia.png?raw=true) 
+
+
 
 
 
@@ -118,9 +158,17 @@ Los elementos de **Diagramas de estados** :
 
 
 
+
+
+------
+
+
+
 - **Ejemplo 2** :
 
   ![Ejemplo_2_estado.png](https://github.com/Yammy468/entornos/blob/main/images/Ejemplo_2_estado.png?raw=true) 
+
+
 
 
 
@@ -139,30 +187,32 @@ Los elementos de **Diagramas de actividades** :
    ![diagrama_de_actividades_2.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_2.png?raw=true)
 
 - **Nodos** (acción): es un elemento con nombre que representa un solo paso atómico dentro de la actividad, para hacer una tarea dada.
-  
+
   - **Nodo final **: detiene todos los flujos en una actividad.
-  
+
     ![diagrama_de_actividades_6.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_6.png?raw=true) 
-  
+
   - **Nodo inicial** : inicia el flujo cuando se invoca la actividad.
-  
+
     ![diagrama_de_actividades_5.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_5.png?raw=true) 
-  
+
   - **Nodo de decisión** : flujo de actividad que pueden usar condiciones para su actuación.
-  
+
     ![diagrama_de_actividades_3.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_3.png?raw=true) 
-  
+
   - **Nodo de fusión** : fusiona dos o más flujos y luego lo emite en un flujo.
-  
+
     ![diagrama_de_actividades_4.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_4.png?raw=true) 
-  
+
   - **Nodo de bifurcación** : divide una acción en flujos concurrentes (se representa con una **barra negra gruesa**).
-  
+
     ![diagrama_de_actividades_7.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_7.png?raw=true)  
-  
+
     Nodo Bifurcación																				Nodo Unión
-  
+
   - **Nodo de unión** : recoge flujos concurrentes en una sola acción (se representa con una **barra negra gruesa**).
+
+    
 
 **2).** Por cada ejemplo de diagrama de actividades que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.
 
@@ -174,6 +224,12 @@ Los elementos de **Diagramas de actividades** :
 
 
 
+
+
+------
+
+
+
 - **Ejemplo 2** :
 
   ![Ejemplo_2_actividades.png](https://github.com/Yammy468/entornos/blob/main/images/Ejemplo_2_actividades.png?raw=true) 
@@ -182,9 +238,20 @@ Los elementos de **Diagramas de actividades** :
 
 
 
+
+
+------
+
+
+
 - **Ejemplo 3** :
 
   ![Ejemplo_3_actividades.png](https://github.com/Yammy468/entornos/blob/main/images/Ejemplo_3_actividades.png?raw=true) 
+
+
+
+
+
 
 
 

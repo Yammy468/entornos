@@ -174,7 +174,23 @@ Los elementos de **Diagramas de estados** :
 
 
 
+Para representar los diferentes estados del agua, donde pasa de estado de hielo a liquido, esta a su vez pasa a vapor de agua y que termina en plasma, o también puede ser viceversa.
 
+Primero, desde el estado de hielo puede pasar a ser:
+
+=> Estado liquido, con una transición que *derrite* el hielo y se transforma en agua liquida. Y si es al contrario, la transición se llama *congelación*.
+
+=> Vapor de agua, con una transición que se llama *sublimación*. Y viceversa es *deposición* o cristalización.
+
+Ahora desde el estado liquido puede pasar a ser:
+
+=> Vapor de agua, con una transición denominado *vaporización*. Y viceversa se llama *condensación*.
+
+=> Estado de hielo.
+
+Y además de que el vapor de agua puede pasar a ser estado liquido y estado de hielo, esta también puede ser:
+
+=> Estado de plasma, con la transición de *ionización*, y viceversa, es *desionización*.
 
 
 
@@ -188,7 +204,15 @@ Los elementos de **Diagramas de estados** :
 
 
 
+Para ver los estados de una maquinaria de hilos, se hace uso de un diagrama de estado.
 
+El estado se inicia con un nuevo estado que empieza a ejecutarse, y esta a su vez, es decir, dentro de lo ejecutado, se inicia de nuevo y que pasa del estado preparado a corriendo o funcionando, donde se selecciona los hilos por un programador de hilo. Y así pasa se termina el estado de ejecutable y se termina el hilo. También, puede ser viceversa (del estado corriendo a estar preparado), en la que se puede ver el rendimiento del hilo y se suspende el estado por un programador de hilo.
+
+Unas de las alternativas del estado ejecutable es que pase a tiempo de espera, y desde aquí se puede pasar a ejecutable, o bien puede directamente terminar. Y si hay un error se notifica el error y la operación se obstruye.
+
+Otra de las alternativas es que pasa a espera, donde el estado puede pasar a ser obstruido y se notifica el error, o pasa directamente a terminado.
+
+La última alternativa es que pase al estado obstruido y luego a estado ejecutable o se termina/finaliza.
 
 
 

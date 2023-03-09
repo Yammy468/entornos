@@ -250,7 +250,7 @@ Los elementos de **Diagramas de actividades** :
 
     ![diagrama_de_actividades_7.png](https://github.com/Yammy468/entornos/blob/main/images/diagrama_de_actividades_7.png?raw=true)  
 
-    Nodo Bifurcación																				Nodo Unión
+    Nodo Bifurcación  ----------------         Nodo Unión
 
   - **Nodo de unión** : recoge flujos concurrentes en una sola acción (se representa con una **barra negra gruesa**).
 

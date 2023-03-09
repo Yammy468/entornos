@@ -264,7 +264,13 @@ Los elementos de **Diagramas de actividades** :
 
 
 
+En un sistema de compra online, se inicia la actividad B con un nodo de decisión, que decide entre buscar y navegar en los artículos. Esta se fusiona cuando ya tiene la decisión de buscar artículos, como resultado acaba en otro nodo de decisión, en la que encuentra o no encuentra los artículos seleccionado, y que acaba con poder ver los artículos que ha seleccionado. 
 
+A continuación, puede tomar la decisión de añadirlo a la cesta de compra, en la que toma la decisión de si quiere procesar la actividad B o ver la cesta de la actividad A. Esta última lleva a la acción de ver la cesta de compra y lo dirige a un nodo de decisión, en la cual puede hacer más compra o actualizar la cesta de compra por si quiere cambiar algo, o bien puede finalizar/acabar la compra de la actividad C.
+
+A parte, con una recepción de señal, que comprueba la cesta de compra de la actividad A. Acompañado de una nota, en que la dice que la cesta de compra puede ser comprobado las veces que quiere.
+
+Una vez, comprobado la compra, se procede al pago de los artículos, con otro recepción de señal. Con la cual se fusiona con la actividad C y acaba con al acción de pago, y esta a su vez se finaliza y termina todo el sistema de compra.
 
 
 
@@ -278,7 +284,9 @@ Los elementos de **Diagramas de actividades** :
 
 
 
+Para que funcione el sistema que procesa ordenes, se inicia con que recibe una orden que anteriormente lo solicita. Esta sigue adelante, hasta que tiene que tomar una decisión de que la orden fue aceptada o la orden fue rechazada. Si la orden fue rechazada la acción termina con una orden cerrada  y finaliza todo el proceso. 
 
+Pero si la orden es aceptada, se completa las ordenes recibidas. Luego el flujo de la acción se ramifica/divide en dos flujos paralelos, ambos son para enviar la orden. Una es directamente y la otra pasa por la factura y acaba en la aceptación del pago. Para finalizar, ambos flujos de unen otra vez en un solo flujo, y desde ahí se cierra el orden y finaliza todo.
 
 
 
@@ -292,7 +300,13 @@ Los elementos de **Diagramas de actividades** :
 
 
 
+En un proceso de documentación, tiene que pasar por varios secciones: autor, revisión, aprobador y dueño.
 
+Primero en la sección de autor, donde se inicia la creación de los documentos  o borradores, en la que luego se pasa a la sección de revisión, donde se revisa los borradores. 
+
+A continuación, los documentos revisados son llevado a la sección de aprobador, donde se aprueba los documentos revisado. Esta puede tomar la decisión de si el documento es aprobado o no aprobado. En caso de que el documento no es aprobado, se vuelve a la sección del autor para actualizar los cambios. Pero en caso de que es aceptado, los documentos aprobados/eficaz son revisado de nuevo en la sección de revisión, en que la decide que los documentos necesita cambio o no. 
+
+Si se necesita cambio, el documento de actualiza con los cambios que se le solicitaron en la sección del autor. Pero si no necesita cambio, es decir, que esta obsoleto, pasa a la sección de dueño, en archivado en archivo, y son dominados documentos archivados y finaliza el proceso de documentación.
 
 
 

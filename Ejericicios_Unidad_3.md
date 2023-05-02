@@ -218,29 +218,51 @@ Para visualizar dicho informe ejecuta `firefox build/jacocoHtml/index.html`.
 
 **1)** ¿Indica al menos 3 servicios web de Integración Continua?
 
+**Servicios web de Integración Continua**:
+
+- Jenkins
+- Bamboo
+- TravisCI
+
 
 
 **2)** En GitHub, haz un fork del repositorio https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1.
+
+![T03_E2-Integracion.png](https://github.com/Yammy468/entornos/blob/main/images/T03_E2-Integracion.png?raw=true)
 
 
 
 **3)** Edita el archivo `.travis.yml` de tu repositorio bifurcado, en caso de ser necesario.
 
+![T03_E3-Integracion.png](https://github.com/Yammy468/entornos/blob/main/images/T03_E3-Integracion.png?raw=true)
+
 
 
 **4)** Regístrate con tu cuenta de GitHub en TravisCI (https://travis-ci.org/)
+
+![T03_E4-1-Integracion.png](https://github.com/Yammy468/entornos/blob/main/images/T03_E4-1-Integracion.png?raw=true)
+
+
+
+![T03_E4-2-Integracion.png](https://github.com/Yammy468/entornos/blob/main/images/T03_E4-2-Integracion.png?raw=true)
 
 
 
 **5)** En TravisCI, añade tu repositorio remoto (bifurcado) para construir y realizar los tests en dicho sitio web. 
 
+![T03_E5-1-Integracion.png](https://github.com/Yammy468/entornos/blob/main/images/T03_E5-1-Integracion.png?raw=true)
+
 
 
 **6)** En TravisCI, haz click en el ***badge\*** o insignia que aparece en la parte superior derecha, y copia el código en formato Markdown.
 
+[![Build Status](https://app.travis-ci.com/Yammy468/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://app.travis-ci.com/Yammy468/DAW1-ED-Pruebas-Ejemplo1) 
+
 
 
 **7)** En GitHub, en tu repositorio bifurcado, copia el código Markdown anterior en el archivo README.md.
+
+![T03_E7-Integracion.png](https://github.com/Yammy468/entornos/blob/main/images/T03_E7-Integracion.png?raw=true)
 
 
 

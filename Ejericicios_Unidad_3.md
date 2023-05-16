@@ -279,9 +279,33 @@ INSTRUCCIONES: https://yeiei.net/es/como-construir-un-entorno-de-integracion-con
 
 **1)** ¿Qué significan las siglas QA y QC? ¿Qué diferencia existe entre ellas?
 
+* **QA = Quality Assurance.**
+
+  QA es un conjunto de actividades para garantizar la **calidad en los procesos** mediante los cuales se desarrollan los productos.
+
+* **QC = Quality Control.**
+
+  QC es un conjunto de actividades para garantizar **la calidad de los productos**. Las actividades se centran en identificar defectos en los productos reales producidos.
 
 
 **2)** Explica brevemente cada uno de los factores de calidad que aparecen en las diapositivas.
 
+**Factores de calidad**:
+
+- *Correción*: el software cumple las especificaciones.
+- *Fiabilidad*: grado en el que el software es confiable, es decir, no tiene fallos.
+- *Eficiencia*: cantidad de recursos hardware y software que necesita un producto para realizar las operaciones.
+- *Seguridad*: grado en el que puede controlarse el acceso al software y a los datos.
+- *Facilidad de uso*: grado de esfuerzo necesario para utilizar el software.
+- *Mantenibilidad*: esfuerzo requerido para localizar y reparar errores.
+- *Flexibilidad*: esfuerzo necesario para modificar un programa en funcionamiento.
+- *Facilidad de prueba*: esfuerzo requerido para probar un programa de forma que cumpla con lo especificado en los requisitos.
+- *Portabilidad*: facilidad para transferir la aplicación a otro hardware o sistema operativo.
+- *Reusabilidad*: grado en el que un programa o parte del mismo se puede utilizar en otras aplicaciones.
+- *Interoperatividad*: esfuerzo necesario para que un software opere o comunique conjuntamente con otros sistemas.
+
+
+
+ 
 
 
